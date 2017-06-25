@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigator</string>
+    <string name="open_animation">Open</string>
+    <string name="close_animation">Close</string>
+    <string name="call_will">Call Will</string>
+    <string-array name="activities">
+        <item>InternerTab</item>
+        <item>SoundTest</item>
+    </string-array>
+</resources>
